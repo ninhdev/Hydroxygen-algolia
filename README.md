@@ -19,14 +19,10 @@ Update `algolia.config.json` with your shopify integration prefix ("shopify_" fo
 
 Update `hydrogen.config.js` with your shop's domain and Storefront API token.
 
-## What's in this template
+## Tech spec
 
-- Algolia InstantSearch & Autocomplete libraries
-- Styling with [Tailwind](https://tailwindcss.com/)
-- End-to-end testing with [Playwright](https://playwright.dev)
-- Unit testing with [Vitest](https://vitest.dev) and [Testing Library](https://testing-library.com)
-- Code formatting with [Prettier](https://prettier.io)
-- Javascript linting with [ESLint](https://eslint.org) and the Hydrogen [ESLint plugin](https://github.com/Shopify/hydrogen/tree/main/packages/eslint-plugin)
+- Algolia InstantSearch Instance Hook libraries
+
 
 ## Getting started
 
