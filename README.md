@@ -5,6 +5,7 @@ Hydrogen is a React framework and SDK that you can use to build fast and dynamic
 
 # Remix App with Algollia
 Build with React InstantSearch Hooks?
+
 [Guide] https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react-hooks/
 
 ## Configuration for Hydrogen & Algolia
